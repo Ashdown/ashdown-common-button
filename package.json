@@ -1,6 +1,6 @@
 {
   "name": "ashdown-common-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project provides a shareable react component",
   "main": "dist/countdown.min.js",
   "scripts": {
