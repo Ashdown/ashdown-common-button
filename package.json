@@ -1,0 +1,29 @@
+{
+  "name": "ashdown-common-button",
+  "version": "1.0.0",
+  "description": "Project provides a shareable react component",
+  "main": "dist/countdown.min.js",
+  "scripts": {
+    "build": "rollup -c -o dist/countdown.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashdown/ashdown-common-button.git"
+  },
+  "author": "Rory Devane rory.devane@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashdown/ashdown-common-button/issues"
+  },
+  "homepage": "https://github.com/Ashdown/ashdown-common-button#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "react": "^16.8.6",
+    "rollup": "^1.10.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-uglify": "^6.0.2"
+  }
+}
